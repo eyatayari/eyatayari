@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eyatayari
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Game dev
+- 🌱 I’m currently looking for internship for 4 to 6 months 
 - 📫 You can reach me on linkedIn www.linkedin.com/in/eya-tayari/
 
 <!---
